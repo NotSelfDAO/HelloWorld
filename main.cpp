@@ -1,6 +1,6 @@
+#include <iostream>
 int main(int argc , char** argv)
 {
-    // w2
-    // branch dev 
+    std::cout << "3 1";
     return 0;
 }
